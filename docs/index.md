@@ -867,40 +867,31 @@
     
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
+   
+
+
+-->
+
 ***
-## Les 10 et 13/09 :
+## Du 05/09 :
 
 === "CONTENU DE SÉANCE"
 
-    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `S032V1FDJ` ;
-    
     - Cours [Analyse Fonctionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank​}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary } [Capytale n°57ee-3860826](https://capytale2.ac-paris.fr/web/c/57ee-3860826){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary } [Capytale n°`bd30-6985093`](https://capytale2.ac-paris.fr/web/c/bd30-6985093){target=_blank .md-button .md-button--primary }
 
     > ==**découvrir** le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.drawio.com/){target=_blank} ;== 
-
-
-=== "TRAVAIL À FAIRE"
-
-    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 16/09.
-    - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
-
-    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
-
-***
-## Le 09/09 :
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction du T.A.F. -> ==**Se questionner** : dépôt public ou privé, poids d'un mail avec PJ, ... ?==
-
+    
     - **Poursuivre** la mise en place d'[un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**Reprendre** depuis un des PC du labo de SI dans l'environnement de Visual Studio Code via Codespaces et en utilisant des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}== ; 
     
 === "TRAVAIL À FAIRE"
 
-    - **Finir** la mise en place de [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} depuis votre iPad via l'environnement VSC de Codespaces ;
+    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 09/09.
+    
+    - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;;
 
--->
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
+
 
 ***
 ## Les 02 et 04/09
@@ -915,5 +906,5 @@
 
 === "TRAVAIL À FAIRE"
 
-    **Rendre* votre fiche d'informations sur Capytale et **personnaliser** votre classeur numérique sur GitHub ;
+    - **Rendre* votre fiche d'informations sur Capytale et **personnaliser** votre classeur numérique sur GitHub ;
 
