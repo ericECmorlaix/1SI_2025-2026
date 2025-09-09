@@ -873,7 +873,7 @@
 -->
 
 ***
-## Du 05/09 :
+## Les 05 et 09/09 :
 
 === "CONTENU DE SÉANCE"
 
@@ -886,7 +886,7 @@
     
 === "TRAVAIL À FAIRE"
 
-    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 09/09.
+    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 11/09.
     
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;;
 
@@ -898,7 +898,6 @@
 
 === "CONTENU DE SÉANCE"
 
-    
     - Accueil -> ==**remplir** une fiche d'informations sur [Capytale n° `5e66-6962107`](https://capytale2.ac-paris.fr/web/c/5e66-6962107){target=_blank}== ;
     > Si nécessaire, **créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} en vous connectant sans ENT avec le code Sésame `RJBNW22RK` ;
     - [Présentation de la matière](https://ericecmorlaix.github.io/si/){target=_blank} -> ==**préciser** le rôle des ingénieurs dans la société== ;
