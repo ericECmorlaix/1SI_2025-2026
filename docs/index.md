@@ -846,9 +846,9 @@
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
     
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
-
+-->
 ***
-## Les 16 et 17/09 :
+## Les 11 et 12/09 :
 
 === "CONTENU DE SÉANCE"
 
@@ -867,10 +867,6 @@
     
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
-   
-
-
--->
 
 ***
 ## Les 05 et 09/09 :
