@@ -809,14 +809,17 @@
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
 
     - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le vendredi 27/09_**.
-***
-## Le 23/09
+
+-->
+## Le 18/09
 
 === "CONTENU DE SÉANCE"
 
-    - Retour sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/ChaineInformation-Numeration.ipynb){target="_blank"} 
-    [Capytale n°f1e8-3992825](https://capytale2.ac-paris.fr/web/c/f1e8-3992825){target=_blank .md-button .md-button--primary }
-    > ==**Corriger** les exercices de conversion *binaire* <-> *décimal*, **découvrir** l'hexadécimal.== ;    
+    - Retour sur le T.A.F. ;
+
+    - Version finale du cours sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/ChaineInformation-Numeration-Complet.ipynb){target="_blank"} 
+    [Capytale n°`f6e0-7171881`](https://capytale2.ac-paris.fr/web/c/f6e0-7171881){target=_blank .md-button .md-button--primary }
+    > ==**Finir** les exercices de conversion...== ;    
 
 === "TRAVAIL À FAIRE"
     
@@ -824,9 +827,13 @@
     
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
 
-    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le vendredi 27/09_**.
--->
+    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le vendredi 19/09_**.
+
+    - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
     
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
+
+***
 ## Le 16/09
 
 === "CONTENU DE SÉANCE"
