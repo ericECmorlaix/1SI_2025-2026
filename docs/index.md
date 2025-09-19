@@ -784,18 +784,19 @@
     - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-    
+-->    
 ***
-## Le 24/09
+## Le 19/09
 
 === "CONTENU DE SÉANCE"
 
-    - Retour sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/ChaineInformation-Numeration.ipynb){target="_blank"} 
-    [Capytale n°f1e8-3992825](https://capytale2.ac-paris.fr/web/c/f1e8-3992825){target=_blank .md-button .md-button--primary }
-    > ==**Corriger** les exercices de conversion, **découvrir** l'ASCII...== ;    
+    - Correction des exercices de conversion de la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/ChaineInformation-Numeration-Complet.ipynb){target="_blank"} 
+    [Capytale n°`f6e0-7171881`](https://capytale2.ac-paris.fr/web/c/f6e0-7171881){target=_blank .md-button .md-button--primary } ;
 
+    - Evaluation en analyse fonctionnelle SYSML + numération et codage de l'information ;
+    
     - **S'initier** à la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
-        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `i3f84f5e` fourni​​​ pour débuter le **Parcours_1** ;
+        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `83dbt9cp` fourni​​​ pour débuter le **Parcours_1** ;
         - ==**notez, et conservez** votre code personnel pour retourner dans ce parcours d'une fois sur l'autre== ;
 
 === "TRAVAIL À FAIRE"
@@ -806,11 +807,7 @@
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
         
-    - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
-
-    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le vendredi 27/09_**.
-
--->
+***
 ## Le 18/09
 
 === "CONTENU DE SÉANCE"
