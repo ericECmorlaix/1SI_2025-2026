@@ -751,13 +751,14 @@
 
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
+--> 
 ***
-## Le 30/09
+## Le 23/09
 
 === "CONTENU DE SÉANCE"
 
     - **S'initier** à la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
-        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `i3f84f5e` fourni​​​ pour débuter le **Parcours_1** ;
+        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `83dbt9cp` fourni​​​ pour débuter le **Parcours_1** ;
         - ==**notez, et conservez** votre code personnel pour retourner dans ce parcours d'une fois sur l'autre== ;
 
 === "TRAVAIL À FAIRE"
@@ -770,21 +771,6 @@
         
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
-***
-## Le 27/09
-
-=== "CONTENU DE SÉANCE"
-
-    - Evaluation en analyse fonctionnelle SYSML + numération et codage de l'information.
-   
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
-    
-    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
--->    
 ***
 ## Le 19/09
 
