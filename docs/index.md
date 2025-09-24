@@ -719,10 +719,10 @@
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
     
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
-
+-->
 ***
 
-## Du 01 au 08/10
+## Du 25/09
 
 === "CONTENU DE SÉANCE"
 
@@ -751,7 +751,7 @@
 
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
---> 
+ 
 ***
 ## Le 23/09
 
