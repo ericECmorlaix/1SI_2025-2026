@@ -691,12 +691,14 @@
     
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
-***
-## Du 11 au 15/10
-
-=== "CONTENU DE SÉANCE"
 
     - Correction des évaluations SYSML et [numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Correction_Evaluation_Numeration.ipynb){target="_blank"} ;
+
+-->
+***
+## Du 02/10
+
+=== "CONTENU DE SÉANCE"    
     
     - Etat d'avancement de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
@@ -710,7 +712,7 @@
     - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
     > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
 
-    - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} pour le 08/11 ;
+    - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} pour le 17/10 ;
     
     - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
     
@@ -719,7 +721,7 @@
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
     
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
--->
+
 ***
 
 ## Du 25/09
