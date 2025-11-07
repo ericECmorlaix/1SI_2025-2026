@@ -523,40 +523,20 @@
 
 
 ***
-## Les 25 et 26/11
 
-=== "CONTENU DE SÉANCE"
-
-    - Finalisation des oraux de présentation des comptes rendus numériques des [exercices liés aux différentes formes d'énergie](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et des [exercices 3, 4 et 5 associés aux principales_puissances](./CP/Les_principales_puissances-Exercices.pdf){target=_blank} et des autres travaux en cours ;
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Répondre** aux questions de l'exercice d'énergétique du [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target=_blank} et **remettre** votre travail au format numérique (`.pdf`, `.md` ou `.ipynb`) ou papier pour le 25/11.  
-    
-    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
-    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
-
-    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+  
 
 ***
 ## Le 22/11
 
 === "CONTENU DE SÉANCE"
 
-    - Séance annulée pour réunion pédagogique -> cf T.A.F. ;
     
 === "TRAVAIL À FAIRE"
 
     - **Répondre** aux questions de l'exercice d'énergétique du [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target=_blank} et **remettre** votre travail au format numérique (`.pdf`, `.md` ou `.ipynb`) ou papier pour le 25/11.  
     
-    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
-    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
 
-    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
 
 
 ***
@@ -564,7 +544,6 @@
 
 === "CONTENU DE SÉANCE"
 
-    - Suite des oraux de présentation des comptes rendus numériques des [exercices liés aux différentes formes d'énergie](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et des [exercices 3, 4 et 5 associés aux principales_puissances](./CP/Les_principales_puissances-Exercices.pdf){target=_blank} ;
 
     - Correction des questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary } ;
@@ -575,23 +554,13 @@
 
 
         
-    
-=== "TRAVAIL À FAIRE"
-
-       
-    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
-    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
-
-    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
 
 ***
 ## Des 15 et 18/11
 
 === "CONTENU DE SÉANCE"
 
-    - Oraux de présentation des comptes rendus numériques des [exercices liés aux différentes formes d'énergie](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et des [exercices 3, 4 et 5 associés aux principales_puissances](./CP/Les_principales_puissances-Exercices.pdf){target=_blank} ;
+    
         
     
 === "TRAVAIL À FAIRE"
@@ -599,13 +568,7 @@
     - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary } pour le 18/11.
  
-    
-    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
-    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
 
-    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
 
 ***
 
@@ -613,76 +576,59 @@
 
 === "CONTENU DE SÉANCE"
 
-    - Evaluation sur les énergies, rendement et principales puissances d'une part et sur la programmation en Python d'IOT - QuickPi d'autre part.
+    - Evaluation sur la programmation en Python d'IOT - QuickPi.
+
+
+   
+ 
+
+    
+
+
+
+-->
+***
+## Les 6 et 7/11
+
+=== "CONTENU DE SÉANCE" 
+
+    - Oraux de présentation des comptes rendus numériques des [exercices liés aux différentes formes d'énergie](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et des [exercices 3, 4 et 5 associés aux principales_puissances](./CP/Les_principales_puissances-Exercices.pdf){target=_blank} ;
+    - Restitution orale des auto-corrections de l'évaluation sur les énergies, rendement et principales puissances ;
+
+
+***
+## Le 4/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Auto-correction de l'évaluation sur les énergies, rendement et principales puissances ;
 
 === "TRAVAIL À FAIRE"
 
     - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 3, 4 et 5 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
-    
     - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
     > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
 
     - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-
-
-***
-## Les 04, 05 et 08/11
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction des travaux des notebooks [Analyse Fonctionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank​}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary } [Capytale n°57ee-3860826](https://capytale2.ac-paris.fr/web/c/57ee-3860826){target=_blank .md-button .md-button--primary }
-     et [Analyse Fonctionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank​}    
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/AF/OutilsAnalyseFonctionnelleInterne.ipynb){ .md-button .md-button--primary } [Capytale n°fef3-3925750](https://capytale2.ac-paris.fr/web/c/fef3-3925750){target=_blank .md-button .md-button--primary }
-     ;
-
-    - Etat d'avancement de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-
-    - Etat d'avancement des exercices sur les énergies, rendement et principales puissances du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} pour le 08/11 ;
-   
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 3, 4 et 5 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
-    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
-    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
-
-    
-    - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} pour le 12/11 ;
-    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
-    
-    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
     
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
+
 ***
-## Le 18/10
+## Le 17/10
 
-=== "CONTENU DE SÉANCE"
+=== "CONTENU DE SÉANCE" 
 
-    - Correction des [exercices 4, 5 et 6 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank},
-     en vous aidant si besoin du [document ressources présentant l'énergie contenue dans les batteries](./CP/Les_principales_puissances-Document_ressources.pdf){target=_blank} ;
+    - Evaluation sur les énergies, rendement et principales puissances ;
 
-    - Etat d'avancement de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-
-    
-    
 === "TRAVAIL À FAIRE"
 
     - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 3, 4 et 5 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
     - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
     > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
 
-    - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} pour le 08/11 ;
-    
     - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
     
     - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
@@ -692,9 +638,6 @@
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
 
-    - Correction des évaluations SYSML et [numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Correction_Evaluation_Numeration.ipynb){target="_blank"} ;
-
--->
 ***
 ## Du 02/10
 
