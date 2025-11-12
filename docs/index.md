@@ -555,19 +555,7 @@
 
         
 
-***
-## Des 15 et 18/11
 
-=== "CONTENU DE SÉANCE"
-
-    
-        
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary } pour le 18/11.
- 
 
 
 ***
@@ -587,6 +575,25 @@
 
 
 -->
+
+***
+## Le 13/11
+
+=== "CONTENU DE SÉANCE"
+
+    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
+        
+    
+=== "TRAVAIL À FAIRE"
+
+    - Se préparer pour une évaluation sur la programmation en Python d'IOT ([**QuickPi**](https://amazon.quick-pi.org/){target="_blank"}) et une nouvelle évaluation sur les énergies, rendement et principales puissances ([**NEWECLIGNE**](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank}) soit le 14 ou les 18 et 20 ou le 21/11 ;
+
+    - **Finaliser** et **rendre** tous les travaux engagés ;  
+    
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot](https://execubot.fr/game?levels=1+2+37+47+5+7+36+21+26+22+15+10+11+12+38+56+9+43+35+40+41+42+48+50+53+51+54+60+63+17+45+59+64+46+55+58+62+39+49+61+18+44+65+30+57+52+68+6+13+25+29+23+24+69+80+79+16+28+81+82+85+3+4+70+33+8+27+71+75+2000+76+66+72+73+77+67+1000+74+78+3000+31+34+83+84&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
+
+
 ***
 ## Les 6 et 7/11
 
