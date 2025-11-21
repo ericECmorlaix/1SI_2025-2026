@@ -501,25 +501,6 @@
 
     - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
 
-***
-## Le 29/11
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction des questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary } ;
-
-    - Poursuite de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
-    [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
-       
-=== "TRAVAIL À FAIRE"
-
-    - Se préparer pour une ==évaluation sur les fonctions logiques== en faisant les exercices d'entrainement :
-        - [Ex1- Lecture d'un logigramme européen](./CI/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
-        - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} ;
-        - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
-        - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ; 
 
 
 ***
@@ -554,7 +535,22 @@
 
 -->
 
+***
+## Le 21/11
 
+=== "CONTENU DE SÉANCE"
+
+    - Poursuite de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
+    [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
+       
+=== "TRAVAIL À FAIRE"
+
+    - Se préparer pour une ==évaluation sur les fonctions logiques== en faisant les exercices d'entrainement :
+        - [Ex1- Lecture d'un logigramme européen](./CI/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
+        - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} ;
+        - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
+        - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ; 
 ***
 
 ## Le 14/11
