@@ -508,7 +508,7 @@
 
     - **Prendre** en main le logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"}
 
-     [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 
@@ -538,7 +538,7 @@
     [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary } ;
 
-    - TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    - TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 
