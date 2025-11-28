@@ -503,11 +503,13 @@
 
 ***
 
-## Le 25/11
+## Du 25/11
 
 === "CONTENU DE SÉANCE"
 
     - Correction de l'evaluation sur la programmation en Python d'IOT - QuickPi - [Execubot](https://www.execubot.fr/game?levels=36+11+33+67+28+68+61+7+75+4){target="_blank"} ;
+
+    - Correction de l'evaluation n°2 sur l'énergétique => **Refaire** les dernières question de l'exercice du [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target=_blank} et **remettre** votre travail au format numérique (`.pdf`, `.md` ou `.ipynb`) ou papier pour le 28/11 ;
 
     - Synthèse de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
     [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
