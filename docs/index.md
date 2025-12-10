@@ -465,7 +465,7 @@
 
     - Evaluation sur les fonctions logiques de la chaine d'information ;
 
-    - **Prendre** en main le logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"}
+
 
     - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
@@ -476,30 +476,35 @@
     
     - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
 
+    - Sprint_0 du [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
 
-***
-## Du 02/12
-
-=== "CONTENU DE SÉANCE"
-
-    
-
-
-***
-
-  
-
-***
-## Le 22/11
-
-=== "CONTENU DE SÉANCE"
-
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Répondre** aux questions de l'exercice d'énergétique du [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target=_blank} et **remettre** votre travail au format numérique (`.pdf`, `.md` ou `.ipynb`) ou papier pour le 25/11.  
-
+    - **Rendre** les travaux du TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 -->
+
+***
+## Le 11/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction des exercices d'entrainement :
+        - [Ex1- Lecture d'un logigramme européen](./CI/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
+        - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} ;
+        - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
+        - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ;
+
+    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+
+    - Synthèse de la prise en main du logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} ;
+       
+=== "TRAVAIL À FAIRE"
+    
+    - **Réviser** pour une ==évaluation sur les fonctions logiques== ;
+    - **Rendre** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
+
 ***
 
 ## Du 02/12
@@ -515,7 +520,7 @@
        
 === "TRAVAIL À FAIRE"
 
-    - Se préparer pour une ==évaluation sur les fonctions logiques== en faisant les exercices d'entrainement :
+    - **Se préparer** pour une ==évaluation sur les fonctions logiques== en faisant les exercices d'entrainement :
         - [Ex1- Lecture d'un logigramme européen](./CI/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
         - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} ;
         - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
@@ -523,9 +528,7 @@
 
     - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
 
-
 ***
-
 ## Du 25/11
 
 === "CONTENU DE SÉANCE"
