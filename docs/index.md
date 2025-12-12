@@ -440,14 +440,7 @@
     - **Finir** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
  
 
-***
-## Le 17/12
 
-=== "CONTENU DE SÉANCE"
-
-    - Synthèse de la prise en main du logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} ;
-
-    - Sprint_0 du [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
 
        
 === "TRAVAIL À FAIRE"
@@ -484,7 +477,7 @@
 -->
 
 ***
-## Le 11/12
+## Les 11 et 12/12
 
 === "CONTENU DE SÉANCE"
 
@@ -499,6 +492,8 @@
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 
     - Synthèse de la prise en main du logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} ;
+
+    - Sprint_0 du [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
        
 === "TRAVAIL À FAIRE"
     
