@@ -187,7 +187,7 @@ Et avec l'aide des vidéos de Ms. DANZI suivantes :
 - Partager votre réalisation avec les autres élèves du groupe ;
 
 - Réaliser l'assemblage d'une de vos réalisations avec celle d'un de vos pairs ;
-
+<!--  
 ### Rétrospective du Sprint 0
 
 Présentation et mise à disposition d'une [solution évoluée](https://cad.onshape.com/documents/eae7d5dbadf240e2acc49d39/w/a3ba5b49acc41fe9c2ed9468/e/6a103ab37cde86b04256cc6e?configuration=List_6JeGb3He5zHqFj%3DLime%3BList_AyxwWtoVtiHp1b%3D_2%3BList_j3AykOuNpacazF%3D_12%3BList_tOBXK0dASudqmA%3DPar_d_faut&renderMode=0&uiState=6391b74abfe4b3687020e513)
@@ -199,7 +199,7 @@ Présentation et mise à disposition d'une [solution évoluée](https://cad.onsh
 ##  Sprint 1, mise en application du workflow
 
 A vous de vous organiser en équipe pour produire la maquette d'un premier immeuble conforme aux attendus du Product Owner...
-<!--  
+
 ### Rétrospective du Sprint 1
 
 Organiser une réunion de rétrospective du Sprint 1, relever la tête du guidon et résumer ci-dessous les points à retenir :
