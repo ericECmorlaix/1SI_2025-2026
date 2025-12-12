@@ -139,17 +139,17 @@ _C'est parti pour le **Sprint...**, rendez-vous au prochain **Scrum...**_
 En observant les briques de LEGO Classic et les images ci-dessous :
 
 === "Briques"
-    ![bricks_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2023-2024/images/bricks_by_jeremymallin.jpg){ width="100%" .center }
+    ![bricks_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2025-2026/images/bricks_by_jeremymallin.jpg){ width="100%" .center }
 === "Plaques"
-    ![plates_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2023-2024/images/plates_by_jeremymallin.jpg){ width="100%" .center }
+    ![plates_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2025-2026/images/plates_by_jeremymallin.jpg){ width="100%" .center }
 === "Pentes_1"
-    ![sloped_bricks_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2023-2024/images/sloped_bricks_by_jeremymallin.jpg){ width="100%" .center }
+    ![sloped_bricks_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2025-2026/images/sloped_bricks_by_jeremymallin.jpg){ width="100%" .center }
 === "Pentes_2"
-    ![sloped_bricks_2_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2023-2024/images/sloped_bricks_2_by_jeremymallin.jpg){ width="100%" .center }
+    ![sloped_bricks_2_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2025-2026/images/sloped_bricks_2_by_jeremymallin.jpg){ width="100%" .center }
 === "Pentes_3"
-    ![sloped_bricks_3_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2023-2024/images/sloped_bricks_3_by_jeremymallin.jpg){ width="100%" .center }
+    ![sloped_bricks_3_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2025-2026/images/sloped_bricks_3_by_jeremymallin.jpg){ width="100%" .center }
 === "Unité des dimensions Lego"
-    ![LDU.jpg](https://ericecmorlaix.github.io/1SI_2023-2024/images/LDU.jpg){ width="100%" .center }
+    ![LDU.jpg](https://ericecmorlaix.github.io/1SI_2025-2026/images/LDU.jpg){ width="100%" .center }
 
 Et avec l'aide des vidéos de Ms. DANZI suivantes :
 === "Tutorial 1"
