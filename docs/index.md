@@ -475,6 +475,19 @@
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 -->
+***
+***
+## Du 06/01
+
+**Bonne Année !**
+
+=== "CONTENU DE SÉANCE"
+
+    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective du sprint 0, initiation du sprint 1 ;
+       
+=== "TRAVAIL À FAIRE"
+    
+    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : réalisation du sprint 1 ;
 
 ***
 ## Les 11 et 12/12
