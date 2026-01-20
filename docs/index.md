@@ -287,7 +287,7 @@
         [Capytale n° 6215-5948254](https://capytale2.ac-paris.fr/web/c/6215-5948254){target=_blank .md-button .md-button--primary } | 
         [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
 
-        - **Décrire** vos projets envisagés sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ;
+        
 
         
     - Activités déjà réalisées :
@@ -415,12 +415,27 @@
         [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
 
 ***
-## Du 20/01
+    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+
+    - **Rendre** les travaux du TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+-->
+
+***
+## Les 16 et 20/01
+
+**Bonne Année !**
 
 === "CONTENU DE SÉANCE"
 
-    - **Progresser** en programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
-            - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `bcdnystx` fourni​​​ pour débuter le **Parcours_2** ;
+    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective du sprint 1, présentations orales des livrables ;
+
+    - **Décrire** sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } vos projets envisagés pour une présentation aux portes ouvertes des 13 et 14 mars prochain ;
+
+    - **Progresser** en programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `vaysp7ja` fourni​​​ pour débuter le **Parcours_2** ;
 
 === "TRAVAIL À FAIRE"
 
@@ -428,54 +443,6 @@
         [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } 
         [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
 
-***
-## Du 06/01
-
-=== "CONTENU DE SÉANCE"
-
-    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective du sprint 0, réalisation du sprint 1 ;
-       
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
- 
-
-
-
-       
-=== "TRAVAIL À FAIRE"
-    
-    - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
-    - **Rendre** les travaux du TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
-    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
-
-
-***
-## Le 13/12
-
-=== "CONTENU DE SÉANCE"
-
-    - Evaluation sur les fonctions logiques de la chaine d'information ;
-
-
-
-    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
-    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
-
-       
-=== "TRAVAIL À FAIRE"
-    
-    - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
-
-    - Sprint_0 du [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
-
-    - **Rendre** les travaux du TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
-    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
--->
-***
 ***
 ## Du 06/01
 
