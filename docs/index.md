@@ -109,10 +109,6 @@
 
 ***
 
-
-
-
-
         - [Robotique - Programmer la fonction traiter en MicroPython sur BBC micro:bit](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ; [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2025-2026/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){ .md-button .md-button--primary }
 
         - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour interagir avec les composants  montés sur une breadboard (LED, BP, Potentiomètre, ...) et avec ceux de [cartes d'extensions robotiques présentes au labo de SI](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/#cartes-dextensions){target="_blank"}...        
@@ -132,11 +128,6 @@
     - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
     - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
         
-
-
-
-  
-
 
 ???+ tip "Astuces"
 
@@ -340,24 +331,6 @@
 
     - Correction de l'évaluation sur les lois électriques et la programmation en Python des objets connectés ;
 
-    - Modélisation cinématique des mécanismes, [les liaisons](./SC/FC_Modelisation_Cinematique-les_liaisons.pdf){target=_blank} :
-    
-        - **Compléter** le [tableau des liaisons cinématiques](./SC/Tableau_des_Liaisons_à_compléter.pdf){target=_blank}
-         à partir des vidéos de la playlist [Liaisons](https://youtube.com/playlist?list=PLbgyzlFvLKk2_oAjSikC8i2qf4JqE8A7r){target=_blank}
-          et des cours du site [NEWECLIGNE](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation){target=_blank}
-           concernant les [contacts](https://docs.google.com/presentation/d/e/2PACX-1vSZ-0bSgMVY0jn7jnZsSwrG4Fnxgquoe-UFWLtxLezknVQ1daFrILxLiXhOLIj2ry_x3c-lMH3L-Sgy/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank}
-            et les [liaisons](https://docs.google.com/presentation/d/e/2PACX-1vQImG_3mGTzPloqeHZ6yebrBvQ9OFDDH0EJ6ntr5kC39dfuxKIvysbVWn-JGwdRRbEmDKoDwCQXKryj/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} ;
-
-        - **Copier** le document Onshape [Liaisons](https://cad.onshape.com/documents/bdb0077e0fd32049b04b87f6/w/49b5b364a55394ba411ac26b/e/e45c2be32f93d5c667ef864a){target=_blank}
-         et y **créer** des assemblages représentatifs des différentes liaisons...
-        
-
-=== "TRAVAIL À FAIRE"
-
-    - **Faire** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank} ;
-
-    - **Rendre** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
-
 ***
 ## Du 04/02
 
@@ -367,36 +340,11 @@
     [Capytale n° 7821-5555296](https://capytale2.ac-paris.fr/web/c/7821-5555296){target=_blank .md-button .md-button--primary }
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
 
-    - **Finaliser** l'étude expérimentale de la logique séquentielle de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"}
-    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
      
 === "TRAVAIL À FAIRE"
 
     - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
     - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
-
-    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} 
-        [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
-
-
-***
-## Du 28/01
-
-=== "CONTENU DE SÉANCE"
-
-    - Etat d'avancement en programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} ;
-
-    - **Finaliser** l'étude expérimentale de la logique séquentielle de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"}
-    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
-    - Synthèse finale de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ;
-    [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
- 
 
 === "TRAVAIL À FAIRE"
 
@@ -410,24 +358,40 @@
         > Ces circuits utilisent des transistors bipolaires inventés en 1948.
         > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
     
-    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} 
-        [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
-
-***
-    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
-    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
-
     - **Rendre** les travaux du TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 -->
+***
+## Du 22/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Etat d'avancement en programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} ;
+    
+    - Modélisation cinématique des mécanismes, [les liaisons](./SC/FC_Modelisation_Cinematique-les_liaisons.pdf){target=_blank} :
+    
+        - **Compléter** le [tableau des liaisons cinématiques](./SC/Tableau_des_Liaisons_à_compléter.pdf){target=_blank}
+         à partir des vidéos de la playlist [Liaisons](https://youtube.com/playlist?list=PLbgyzlFvLKk2_oAjSikC8i2qf4JqE8A7r){target=_blank}
+          et des cours du site [NEWECLIGNE](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation){target=_blank}
+           concernant les [contacts](https://docs.google.com/presentation/d/e/2PACX-1vSZ-0bSgMVY0jn7jnZsSwrG4Fnxgquoe-UFWLtxLezknVQ1daFrILxLiXhOLIj2ry_x3c-lMH3L-Sgy/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank}
+            et les [liaisons](https://docs.google.com/presentation/d/e/2PACX-1vQImG_3mGTzPloqeHZ6yebrBvQ9OFDDH0EJ6ntr5kC39dfuxKIvysbVWn-JGwdRRbEmDKoDwCQXKryj/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} ;
+
+        - **Copier** le document Onshape [Liaisons](https://cad.onshape.com/documents/bdb0077e0fd32049b04b87f6/w/49b5b364a55394ba411ac26b/e/e45c2be32f93d5c667ef864a){target=_blank}
+         et y **créer** des assemblages représentatifs des différentes liaisons...
+
+=== "TRAVAIL À FAIRE"
+
+    - **Décrire** sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } vos projets envisagés pour une présentation aux portes ouvertes des 13 et 14 mars prochain ;
+    
+    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} 
+        [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
+
+    - **Faire** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank} ;  
 
 ***
 ## Les 16 et 20/01
-
-**Bonne Année !**
 
 === "CONTENU DE SÉANCE"
 
