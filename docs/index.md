@@ -344,7 +344,22 @@
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 -->
+***
 
+## Le 03/03
+
+=== "CONTENU DE SÉANCE"
+
+    - **Se préparer** pour une évaluation le 05/03 portant sur : [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank}, [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank} et [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;
+    
+    - **Décrire** sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } vos projets envisagés pour une présentation aux portes ouvertes des 13 et 14 mars prochain (FootBot, Lanceur de Fusée à eau, Voiture, Ascenseur, Pilote de barre franche, FDS : [Cadrage](./FdS2026_Note%20de%20cadrage.pdf) et [Charte](./FdS2026_Charte.pdf)) ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} 
+        [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
+    
 ***
 ## Du 03/02
 
