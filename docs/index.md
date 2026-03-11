@@ -166,12 +166,17 @@
 
     - **Compléter** la description de vos projets sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ; 
 
+
+
+- Evaluation sur les notions de [Mouvements et Trajectoires dans les mécanismes](https://sites.google.com/view/newecligne/m%C3%A9canique/cin%C3%A9matique/mouvements-et-trajectoires){target=_blank} ;
+
+
 ***
 ## Le 29/04
 
 === "CONTENU DE SÉANCE"
 
-    - Evaluation sur les notions de [Mouvements et Trajectoires dans les mécanismes](https://sites.google.com/view/newecligne/m%C3%A9canique/cin%C3%A9matique/mouvements-et-trajectoires){target=_blank} ;
+    
     - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2025-2026/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
     
 === "TRAVAIL À FAIRE"
@@ -344,6 +349,19 @@
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 -->
+***
+## Du 12/03
+
+=== "CONTENU DE SÉANCE"
+    
+    - **Reporter** la description de vos projets sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ;
+
+    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2025-2026/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Compléter** la description de vos projets sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ; 
+
 ***
 
 ## Le 03/03
