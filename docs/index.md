@@ -319,19 +319,7 @@
     - Correction de l'évaluation sur les lois électriques et la programmation en Python des objets connectés ;
 
 ***
-## Du 04/02
 
-=== "CONTENU DE SÉANCE"
-
-    - **Lire** [Circuits_Electriques-Introduction.pdf](./EL/Circuits_Electriques-Introduction.pdf){target=_blank}  et **Faire** les activités du notebook [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique.ipynb){target=_blank}
-    [Capytale n° 7821-5555296](https://capytale2.ac-paris.fr/web/c/7821-5555296){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
-
-     
-=== "TRAVAIL À FAIRE"
-
-    - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
-    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
@@ -349,6 +337,21 @@
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 -->
+***
+## Du 04/02
+
+=== "CONTENU DE SÉANCE"
+
+    - **Lire** [Circuits_Electriques-Introduction.pdf](./EL/Circuits_Electriques-Introduction.pdf){target=_blank}  et **Faire** les activités du notebook [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique.ipynb){target=_blank}
+    [Capytale n° 7821-5555296](https://capytale2.ac-paris.fr/web/c/7821-5555296){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
+
+     
+=== "TRAVAIL À FAIRE"
+
+    - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
+    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+
 ***
 ## Du 12/03
 
