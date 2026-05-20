@@ -337,6 +337,21 @@
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 -->
+
+## Du 12/05
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}
+
+    - **Appliquer** à l'étude statique du [Cozmo](./AM/AM_Cozmo.pdf){target=_blank} ;     
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} : -> ==**Se préparer** pour évaluation à ce sujet programmée le 26/05==
+    
+    - **Compléter** la description de vos projets sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ; 
+
 ***
 ## Du 04/02
 
